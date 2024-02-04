@@ -1,0 +1,27 @@
+.decoration_b {
+    font-family: "Arial", "Meiryo", sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1.2em;
+    text-shadow: 2px 2px 5px gray;
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+.font_sky {
+    color: skyblue;
+}
+
+.font_pink {
+    color: rgb(255, 192, 203);
+}
+
+html {
+    text-align: center;
+}
+
+
+#basic > p {
+    font-weight: bold;
+}
